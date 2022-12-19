@@ -16,11 +16,214 @@
         }
     ],
     "sites": [
+       {
+            "key": "csp_Kuaikan",
+            "name": "快看影院",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "csp_Kunyu77",
             "name": "酷云七七",
             "type": 3,
             "api": "csp_Kunyu77",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "mtv_xp_xuexi",
+            "name": "学习园地",
+            "type": 3,
+            "api": "csp_Bili",
+            "playerType": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/bili.json"
+        },
+        {
+            "key": "mtv_xp_Bili",
+            "name": "音乐养生",
+            "type": 3,
+            "api": "csp_Bili",
+            "playerType": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/bili2.json"
+        },
+        {
+            "key": "csp_SP360",
+            "name": "360影视",
+            "type": 3,
+            "api": "csp_SP360",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_IQIYI",
+            "name": "爱奇艺源",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_MGTV",
+            "name": "芒果影视",
+            "type": 3,
+            "api": "csp_Mgtv",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_AppTT",
+            "name": "图图影视",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://121.205.88.126:7788"
+        },
+        {
+            "key": "csp_fant",
+            "name": "饭团影视",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_spider",
+            "name": "乐猪影视",
+            "type": 3,
+            "api": "csp_Lezhu",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_zxzj",
+            "name": "在线之家",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_ZJMiao",
+            "name": "新视觉源",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_LiteApple",
+            "name": "小苹果源",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "厂长影视",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Panghu",
+            "name": "胖虎影视",
+            "type": 3,
+            "api": "csp_Panghu",
+            "playerType": 2,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+        {
+            "key": "csp_jihuang",
+            "name": "剧荒影视",
+            "type": 3,
+            "api": "csp_Juhuang",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Dy1010",
+            "name": "双十影视",
+            "type": 3,
+            "api": "csp_Dy1010",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Vofl",
+            "name": "Vofl影视",
+            "type": 3,
+            "api": "csp_Voflix",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Bttoo",
+            "name": "2BT影视",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Cokemv",
+            "name": "Cok影视",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Auete",
+            "name": "Aue影视",
+            "type": 3,
+            "api": "csp_Auete",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -35,7 +238,40 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/95021138/file/main/alitoken/alitoken.json"
+            "ext": "http://111.67.196.181/xpath/太陽-盘搜资源.json"
+        },
+        {
+            "key": "csp_push",
+            "name": "推送(流媒)",
+            "type": 3,
+            "api": "csp_push",
+            "playerType": 2,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://111.67.196.181/xpath/太陽-盘搜资源.json"
+        },
+        {
+            "key": "PanSou",
+            "name": "盘搜(搜索)",
+            "type": 3,
+            "api": "csp_PanSou",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://111.67.196.181/xpath/太陽-盘搜资源.json"
+        },
+        {
+            "key": "Zhaozy",
+            "name": "找源(搜索)",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://111.67.196.181/xpath/太陽-盘搜资源.json"
         }
     ],
     "parses": [
