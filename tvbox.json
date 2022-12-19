@@ -1,3 +1,18 @@
 {
-"spider": "./latest.jar;md5;c02b8653b8c3d270081b35fc48b5b5c6",
+"spider": "https://raw.githubusercontent.com/95021138/file/main/spider/latest.jar;md5;c02b8653b8c3d270081b35fc48b5b5c6",
+"wallpaper": "https://raw.githubusercontent.com/95021138/file/main/wallpaper/wallpaper01.png"
+"lives": [
+        {
+            "name": "直播一",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/95021138/file/main/lives/live01.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        },
+        {
+            "name": "直播二",
+            "type": 0,
+            "url": "https://xn--m7r412advb92j21st65a.tk/live.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        }
+    ],
 }
