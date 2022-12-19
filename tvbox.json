@@ -276,12 +276,12 @@
     ],
     "parses": [
         {
-            "name": "Json轮询",
+            "name": "轮询",
             "type": 2,
             "url": "Sequence"
         },
         {
-            "name": "鹏程万里",
+            "name": "线路①",
             "type": 1,
             "url": "http://lanlan.ckflv.cn/?url=",
             "ext": {
@@ -300,7 +300,7 @@
             }
         },
         {
-            "name": "鸳鸯璧合",
+            "name": "线路②",
             "type": 1,
             "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
             "ext": {
@@ -328,12 +328,12 @@
             }
         },
         {
-            "name": "笑口常开",
+            "name": "线路③",
             "type": 1,
             "url": "http://45.248.10.163:4433/json.php?wap=0&url="
         },
         {
-            "name": "神采奕奕",
+            "name": "线路④",
             "type": 1,
             "url": "http://47.108.39.237:55/api/?key=JBM14sRtNxvvF0yqiB&url=",
             "ext": {
@@ -360,7 +360,7 @@
             }
         },
         {
-            "name": "百尺竿头",
+            "name": "线路⑤",
             "type": 1,
             "url": "https://www.1920lgzy.top/json.php?url=",
             "ext": {
@@ -370,27 +370,27 @@
             }
         },
         {
-            "name": "泰然自若",
+            "name": "线路⑥",
             "type": 1,
             "url": "http://47.108.39.237:55/api/?key=01g4LZuWQpF9pLfWRX&url="
         },
         {
-            "name": "四时如意",
+            "name": "线路⑦",
             "type": 1,
             "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
         },
         {
-            "name": "吉庆有余",
+            "name": "线路⑧",
             "type": 1,
             "url": "https://drpy.liucn.repl.co/parse/api/dyg.js?url="
         },
         {
-            "name": "前程似锦",
+            "name": "线路⑨",
             "type": 1,
             "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
         },
         {
-            "name": "五谷丰登",
+            "name": "线路⑩",
             "type": 1,
             "url": "https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=",
             "header": {
